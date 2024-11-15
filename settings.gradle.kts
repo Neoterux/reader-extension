@@ -20,5 +20,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "extension"
-include(":app")
 include(":core")
