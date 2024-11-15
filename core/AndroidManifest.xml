@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <uses-feature android:name="rfid_reader.extension"/>
+
+    <application android:icon="@mipmap/ic_launcher"  android:label="${appName}" android:allowBackup="false">
+        <!--    Lista de metadatos -->
+
+        <!-- TODO: Agregar la lista de metadatos que se van a utilizar en el proyecto -->
+    </application>
+
+</manifest>
